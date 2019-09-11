@@ -1,5 +1,5 @@
 7.times do
-	#your code here
+	puts "Wingardium Leviosa"
 end
 
 
